@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Batch10_RecyclerView_Grid</string>
+
+    <string name="preis1">4 Nächte ab 250€</string>
+    <string name="preis2">1 Woche ab 400€</string>
+    <string name="preis3">pro Tag 40€</string>
+    <string name="preis4">23€ / Stunde</string>
+</resources>
